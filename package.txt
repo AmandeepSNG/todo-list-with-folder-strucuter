@@ -1,0 +1,11 @@
+packages used 
+
+1. uuid => go get github.com/google/uuid
+2. validator => go get github.com/go-playground/validator/v10
+3. mongodb => go get go.mongodb.org/mongo-driver/mongo
+4. fiber => go get -u github.com/gofiber/fiber/v2
+5. ENV => go get github.com/joho/godotenv
+
+
+
+go mod download (simillar to npm instal)
